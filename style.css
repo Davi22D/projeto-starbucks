@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+body {
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.caixa-conteudo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.caixa-textos {
+    width: 600px;
+   margin-top: 100px;
+}
+
+h2 {
+    color: #333;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+.texto-starbuck {
+    color: #017143;
+    font-size: 70px;
+    font-weight: 900px;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+.button {
+    color: white;
+    background-color: #017143;
+    padding: 10px;
+    border: none;
+    margin-top: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.9s;
+    z-index: 3;
+}
+
+.button:hover {
+    background-color: #008f6b;
+}
+
+.imagem {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-70px);
+    z-index: 0;
+    margin-left: 330px;
+    margin-right: 300px;
+}
+
+.circulo {
+    width: 100%;
+    height: 100%;
+    background: #017143;
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: circle(580px at right 650px);
+    z-index: -1;
+
+}
+
+.botao-menu {
+    width: 60px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.9s;
+}
+
+.botao-menu:hover {
+    transform: translateY(-25px);
+}
+
+.logo {
+    width: 80px;
+}
+
+.imagem-copo {
+    width: 330px;
+    transition: 1.5s;
+}
+
+.imagem-copo:hover {
+    width: 340px;
+    filter: drop-shadow(0 0 2rem rgb(47, 255, 127));
+    transform: translateY(-25px);
+}
+
+a {
+    text-decoration:none;
+    cursor: pointer;
+    color: #017143;
+    font-weight: 500px;
+    padding: 25px;
+    margin-bottom: 80px;
+    margin-left: 20px;
+    width: 200px;
+    font-size: 24px;
+    margin-right: 32px;
+    letter-spacing: 0.775px;
+}
+a:hover {
+    transition: 1.5s;
+    background-color: rgba(10, 10, 10, 0.123);
+    
+
+}
+header { 
+    position: fixed;
+    left: 10px;
+   top: 20px;
+}
+header-menu {
+    position: relative;
+    top: 50px;
+    bottom: 200px;
+    position: fixed;
+}
