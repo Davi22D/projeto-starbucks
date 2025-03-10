@@ -1,10 +1,11 @@
-<h1 align="center" href="https://davi22d.github.io/projeto-starbucks/" >Projeto Starbucks :coffee:</h1>
+<h1 align="center" >Projeto Starbucks :coffee:</h1>
 
 ## Sobre o Projeto:
 <p>Esse foi um projeto que aprendi durante as lives do <a href="https://github.com/rodolfomori" alt="RM">Rodolfo Mori </a>, no Youtube, onde tive a oportunidade de aprender a criar um site do zero, seguindo todas as instruções dele.
 </p>
-<img src="https://github.com/Davi22D/projeto-starbucks/blob/master/Starbucks-img.png?raw=true" href="https://davi22d.github.io/projeto-starbucks/" >
+<img src="https://github.com/Davi22D/projeto-starbucks/blob/master/Starbucks-img.png?raw=true" a="https://davi22d.github.io/projeto-starbucks/" >
 <br>
+[Entre em contato!](https://davi22d.github.io/projeto-starbucks/)
 
 ## :computer: Tecnologias Utilizadas:
 <div img align="left"> 
